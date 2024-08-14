@@ -1,6 +1,7 @@
 package aula1;
 
 public class Mesa {
+	
 	String material;
 	short pernas;
 	String formato;

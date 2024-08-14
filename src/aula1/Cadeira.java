@@ -1,6 +1,7 @@
 package aula1;
 
 public class Cadeira {
+	
 	String material;
 	short pernas;
 	String formato;
@@ -13,5 +14,4 @@ public class Cadeira {
 		System.out.println("se liga na danca da cadeira");
 	}
 }
-
 
