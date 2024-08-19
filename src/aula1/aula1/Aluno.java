@@ -8,8 +8,8 @@ public class Aluno {
 	String matricula;
 	
 	
-	void estudar() {
-		System.out.println("O aluno " + nome + " da idade " + idade + " e genero " + genero + " da matricula " + matricula + " está estudando.");
+	void estudarFiap() {
+		System.out.println("O aluno: " + nome + " de " + idade + " anos, sendo " + genero + " com a matricula de " + matricula + " n vai estudar.");
 	}
 	
 	void comer(String comida) {
