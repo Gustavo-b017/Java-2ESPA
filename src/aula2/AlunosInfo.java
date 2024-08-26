@@ -1,3 +1,5 @@
+/*
+
 package aula2;
 
 import aula1.Aluno;
@@ -16,3 +18,5 @@ public class AlunosInfo {
 		aluno.comer();
 	}
 }
+
+*/
